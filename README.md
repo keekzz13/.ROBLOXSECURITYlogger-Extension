@@ -28,4 +28,4 @@ This is meant to be used for educational purposes only. I am not responsible for
 
 ---
 
-This project was inspired by Nick, founder of INJURIES
+This project was inspired by Nick, founder of INJURIES | Note: this is just a clone only. Original Concept & Code [severityc](https://github.com/severityc/Roblox-Cookie-Login-Extension/tree/main)
